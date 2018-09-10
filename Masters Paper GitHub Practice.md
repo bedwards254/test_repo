@@ -1,5 +1,5 @@
 # Table of Contents 
-* [Introduction](#Introduction) </br>
+* [Introduction](#introduction-) </br>
   * [Research Questions](#research-questions)</br> 
 * [Literature Review](#literature-review)</br>
   * [Community Archives](#community-archives)</br>
