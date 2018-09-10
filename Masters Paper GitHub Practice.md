@@ -1,28 +1,28 @@
 # Table of Contents 
-* Introduction......................................................................................................................... 2 </br>
-  * Research Questions ......................................................................................................... 3</br> 
-* Literature Review................................................................................................................ 4 </br>
-  * Community Archives ...................................................................................................... 4 </br>
-  * Performing Arts Collections in Archives........................................................................ 6 </br>
-  * Advocacy for Community Archives and Theatre Archives.......................................... 11 </br>
-  * The American Theatre Archive Project ........................................................................ 13 </br>
-  * North Carolina and the American Theatre Archive Project.......................................... 16 </br>
-* Methods............................................................................................................................. 18 </br>
-  * Rationale ....................................................................................................................... 19 </br>
-  * Limitations .................................................................................................................... 20 </br>
-  * Analyzing Methods ....................................................................................................... 21 </br>
-* Findings and Analysis....................................................................................................... 22 </br>
-  * Survey Findings and Analysis ...................................................................................... 22 </br>
-  * Interview Findings and Analysis .................................................................................. 26 </br>
-    * Burning Coal Theatre................................................................................................ 27 </br>
-    * Durham Savoyards.................................................................................................... 30 </br>
-    * Raleigh Little Theatre ............................................................................................... 33 </br>
-  * Discussion ..................................................................................................................... 35 </br>
-* Conclusions and Recommendations ................................................................................. 38 </br>
-* Bibliography ..................................................................................................................... 39 </br>
-* Appendix 1: Survey Questions ....................................................................................... 42 </br>
-* Appendix 2: Follow-Up Interview Questions ................................................................. 46 </br>
-* Appendix 3: Survey Email.............................................................................................. 47 </br>
+* Introduction </br>
+  * Research Questions</br> 
+* Literature Review</br>
+  * Community Archives</br>
+  * Performing Arts Collections in Archives</br>
+  * Advocacy for Community Archives and Theatre Archives</br>
+  * The American Theatre Archive Project</br>
+  * North Carolina and the American Theatre Archive Project</br>
+* Methods</br>
+  * Rationale</br>
+  * Limitations</br>
+  * Analyzing Methods</br>
+* Findings and Analysis</br>
+  * Survey Findings and Analysis</br>
+  * Interview Findings and Analysis</br>
+    * Burning Coal Theatre</br>
+    * Durham Savoyards</br>
+    * Raleigh Little Theatre</br>
+  * Discussion</br>
+* Conclusions and Recommendations</br>
+* Bibliography</br>
+* Appendix 1: Survey Questions</br>
+* Appendix 2: Follow-Up Interview Questions</br>
+* Appendix 3: Survey Email</br>
 
 ## Introduction </br>
  Ever see a theatre production and wish you could relive it, or see the thought processes behind 
