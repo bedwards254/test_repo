@@ -1,13 +1,13 @@
 # Table of Contents 
-* [Introduction](#introduction) </br>
-  * Research Questions</br> 
-* Literature Review</br>
-  * Community Archives</br>
-  * Performing Arts Collections in Archives</br>
-  * Advocacy for Community Archives and Theatre Archives</br>
-  * The American Theatre Archive Project</br>
-  * North Carolina and the American Theatre Archive Project</br>
-* Methods</br>
+* [Introduction](#Introduction) </br>
+  * [Research Questions](#research-questions)</br> 
+* [Literature Review](#literature-review)</br>
+  * [Community Archives](#community-archives)</br>
+  * [Performing Arts Collections in Archives](#performing-arts-archives)</br>
+  * [Advocacy for Community Archives and Theatre Archives](#advocacy)</br>
+  * [The American Theatre Archive Project](#ATAP)</br>
+  * [North Carolina and the American Theatre Archive Project](#NCATAP)</br>
+* [Methods](#methods)</br>
   * Rationale</br>
   * Limitations</br>
   * Analyzing Methods</br>
