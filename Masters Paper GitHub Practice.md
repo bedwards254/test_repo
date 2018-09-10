@@ -78,7 +78,7 @@ maintenance and use involves active participation of that community" (p. 38). Th
 maintenance and use in this definition shows the importance of community archives, and how 
 they should exist independently of the institution which helped create them. Funding is always a 
 factor in how these archives continue but having someone "with skills and possibly specialist 
-services" supported in order to not lose the Òpassion and connection...brought by enthusiastsÓ is 
+services" supported in order to not lose the "passion and connection...brought by enthusiasts" is 
 just as important<a href="#anchor1"><sup>1</sup></a>. Bringing the community together at the beginning and 
 encouraging interest in the archive can help lay a foundation to help support the archive later on. </br>
 
@@ -361,38 +361,38 @@ current in-house archives local theatres might have, and interviewing select the
 gage their interest in an archive and what materials they would want to collect in one to represent 
 their company as a whole. </br>
 
-<a id="anchor1">[1]</a>(Newman, 2011, p. 41)
-<a id="anchor2">[2]</a>(Caswell, Cifor, & Ramirez, 2016, p. 61)
-<a id="anchor3">[3]</a>(Caswell et al., 2016, p. 75)
-<a id="anchor4">[4]</a>(Flinn & Andrew, 2011, p. 15)
-<a id="anchor5">[5]</a>(Flinn & Andrew, 2011, p. 1)
-<a id="anchor6">[6]</a>(Flinn & Andrew, 2011, p. 17)
-<a id="anchor7">[7]</a>(Freedley, 1962)
-<a id="anchor8">[8]</a>(Freedley, 1962, p. 54-55)
-<a id="anchor9">[9]</a>(Jones, Abbott, & Ross, 2009, p. 165)
-<a id="anchor10">[10]</a>(Fern, 2004, p. 198)
-<a id="anchor11">[11]</a>(Jones et al., 2009, p. 167)
-<a id="anchor12">[12]</a>(Jones et al., 2009, page 169)
-<a id="anchor13">[13]</a>(Russell, 2016, p. 63)
-<a id="anchor14">[14]</a>(Harvey & Moosberger, 2007, p. 44)
-<a id="anchor15">[15]</a>(Hujda, SAA 2017)
-<a id="anchor16">[16]</a>(Jackson, Wheeler, & Quinn, 2015, p. 22)
-<a id="anchor17">[17]</a>(Marini, 2007, p. 20)
-<a id="anchor18">[18]</a>(Marini, 2007, p. 18)
-<a id="anchor19">[19]</a>(Jackson et al., 2015, p. 21)
-<a id="anchor20">[20]</a>(Marini, 2007, p. 26)
-<a id="anchor21">[21]</a>(Hackman, 2012, p. 11)
-<a id="anchor22">[22]</a>(Collins Shortall, 2016, p. 144)
-<a id="anchor23">[23]</a>(Collins Shortall, 2016, p. 150)
-<a id="anchor24">[24]</a>(Smith, 2013, p. 61)
-<a id="anchor25">[25]</a>(Medaille, 2010, p. 345)
-<a id="anchor26">[26]</a>(Brady & Koffler, 2015, p. 106)
-<a id="anchor27">[27]</a>(Brady & Koffler, 2015, p. 106)
-<a id="anchor28">[28]</a>(Brady & Koffler, 2015, p. 107)
-<a id="anchor29">[29]</a>(Brady & Koffler, 2015, p. 107-8)
-<a id="anchor30">[30]</a>(Brady & Koffler, 2015, p. 108)
-<a id="anchor31">[31]</a>(Brady & Koffler, 2015, p. 113)
-<a id="anchor32">[32]</a>(Brady & Koffler, 2015, p. 114)
-<a id="anchor33">[33]</a>(Brady & Koffler, 2015, p. 117-119)
-<a id="anchor34">[34]</a>("About Us | UNC Department of Dramatic Art," n.d.)
-<a id="anchor35">[35]</a>(personal communication, October 12, 2017)
+<a id="anchor1">[1]</a>(Newman, 2011, p. 41)</br>
+<a id="anchor2">[2]</a>(Caswell, Cifor, & Ramirez, 2016, p. 61)</br>
+<a id="anchor3">[3]</a>(Caswell et al., 2016, p. 75)</br>
+<a id="anchor4">[4]</a>(Flinn & Andrew, 2011, p. 15)</br>
+<a id="anchor5">[5]</a>(Flinn & Andrew, 2011, p. 1)</br>
+<a id="anchor6">[6]</a>(Flinn & Andrew, 2011, p. 17)</br>
+<a id="anchor7">[7]</a>(Freedley, 1962)</br>
+<a id="anchor8">[8]</a>(Freedley, 1962, p. 54-55)</br>
+<a id="anchor9">[9]</a>(Jones, Abbott, & Ross, 2009, p. 165)</br>
+<a id="anchor10">[10]</a>(Fern, 2004, p. 198)</br>
+<a id="anchor11">[11]</a>(Jones et al., 2009, p. 167)</br>
+<a id="anchor12">[12]</a>(Jones et al., 2009, page 169)</br>
+<a id="anchor13">[13]</a>(Russell, 2016, p. 63)</br>
+<a id="anchor14">[14]</a>(Harvey & Moosberger, 2007, p. 44)</br>
+<a id="anchor15">[15]</a>(Hujda, SAA 2017)</br>
+<a id="anchor16">[16]</a>(Jackson, Wheeler, & Quinn, 2015, p. 22)</br>
+<a id="anchor17">[17]</a>(Marini, 2007, p. 20)</br>
+<a id="anchor18">[18]</a>(Marini, 2007, p. 18)</br>
+<a id="anchor19">[19]</a>(Jackson et al., 2015, p. 21)</br>
+<a id="anchor20">[20]</a>(Marini, 2007, p. 26)</br>
+<a id="anchor21">[21]</a>(Hackman, 2012, p. 11)</br>
+<a id="anchor22">[22]</a>(Collins Shortall, 2016, p. 144)</br>
+<a id="anchor23">[23]</a>(Collins Shortall, 2016, p. 150)</br>
+<a id="anchor24">[24]</a>(Smith, 2013, p. 61)</br>
+<a id="anchor25">[25]</a>(Medaille, 2010, p. 345)</br>
+<a id="anchor26">[26]</a>(Brady & Koffler, 2015, p. 106)</br>
+<a id="anchor27">[27]</a>(Brady & Koffler, 2015, p. 106)</br>
+<a id="anchor28">[28]</a>(Brady & Koffler, 2015, p. 107)</br>
+<a id="anchor29">[29]</a>(Brady & Koffler, 2015, p. 107-8)</br>
+<a id="anchor30">[30]</a>(Brady & Koffler, 2015, p. 108)</br>
+<a id="anchor31">[31]</a>(Brady & Koffler, 2015, p. 113)</br>
+<a id="anchor32">[32]</a>(Brady & Koffler, 2015, p. 114)</br>
+<a id="anchor33">[33]</a>(Brady & Koffler, 2015, p. 117-119)</br>
+<a id="anchor34">[34]</a>("About Us | UNC Department of Dramatic Art," n.d.)</br>
+<a id="anchor35">[35]</a>(personal communication, October 12, 2017)</br>
