@@ -3,10 +3,10 @@
   * [Research Questions](#research-questions)</br> 
 * [Literature Review](#literature-review-)</br>
   * [Community Archives](#community-archives-)</br>
-  * [Performing Arts Collections in Archives](#performing-arts-archives)</br>
-  * [Advocacy for Community Archives and Theatre Archives](#advocacy)</br>
-  * [The American Theatre Archive Project](#The-American-Theatre-Archive-Project-)</br>
-  * [North Carolina and the American Theatre Archive Project](#NCATAP)</br>
+  * [Performing Arts Collections in Archives](#performing-arts-collections-in-archives-)</br>
+  * [Advocacy for Community Archives and Theatre Archives](#advocacy-for-community-archives-and-theatre-archives-)</br>
+  * [The American Theatre Archive Project](#the-american-theatre-archive-project-)</br>
+  * [North Carolina and the American Theatre Archive Project](#north-carolina-and-the-american-theatre-archive-project-)</br>
 * [Methods](#methods)</br>
   * Rationale</br>
   * Limitations</br>
