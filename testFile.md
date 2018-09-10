@@ -4,9 +4,11 @@ Testing again
 # This is a h1 tag in Markdown
 ## This is a h2 tag in Markdown
 
-**This shows emphasis**
-*This shows italics*
-_BUT so does this_
+**This shows emphasis**   
+*This shows italics*   
+_BUT so does this_  
+
+Note: there needs to be 2 spaces after a sentence to show a line break. 
 
 ## I'm going to create an *unordered* list now, kthxbye
 * List item one 
@@ -23,12 +25,12 @@ _BUT so does this_
 3. End ordered list! 
 
 ## Now let's try linking to a website
-This will link to the [Rose Library](<rose.library.emory.edu> "rose.library.emory.edu") site.
+This will link to the [Rose Library](<www.rose.library.emory.edu> "www.rose.library.emory.edu") site.
 
 ## This is an in-line code example
 This could be `handy to know` I think. 
 
-```Look at my code block!```
+```Look at my code block! I'm a general, whee!```
 
 ## And now for a footnote! 
 This is my footnote test <a href="#anchor1"><sup>1</sup></a> 
