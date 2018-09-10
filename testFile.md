@@ -35,4 +35,17 @@ This could be `handy to know` I think.
 ## And now for a footnote! 
 This is my footnote test <a href="#anchor1"><sup>1</sup></a> 
 
+## Let's try a block quote: 
+Someone wise once said: 
+> "There is a voice inside of you
+> That whispers all day long,
+> 'I feel this is right for me,
+> I know that this is wrong.'
+> No teacher, preacher, parent, friend
+> Or wise man can decide
+> What's right for you -- just listen to
+> The voice that speaks inside."
+
+That someone was **Shel Silverstein**
+
 <a id="anchor1">[1]</a> Here is my footnote (I hope).
