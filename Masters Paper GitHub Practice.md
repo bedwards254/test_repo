@@ -351,7 +351,7 @@ mainly to Dr. Versenyi, who also was a member of the ATAP steering committee for
 acting as liaison between ATAP and ASTR. In the fall of 2016, interest in picking up and 
 investing in the project sparked, and in mid-2017 really picked up, with a SILS graduate student 
 expressing interest in the project and helping the CDA develop it further. Since Wilson Library 
-on UNC campus holds a number of early Carolina PlaymakerÕs materials, it was decided to focus 
+on UNC campus holds a number of early Carolina Playmaker's materials, it was decided to focus 
 the in-house CDA archive on the past 40 years of PlayMakers history and productions done by 
 various groups of the Department of Dramatic Art over the years. </br>
 
@@ -360,6 +360,31 @@ how ATAP can grow within the Triangle region of North Carolina, by conducting a 
 current in-house archives local theatres might have, and interviewing select theatre companies to 
 gage their interest in an archive and what materials they would want to collect in one to represent 
 their company as a whole. </br>
+
+## Methods
+To start my research phase, I compiled of list of 24 theatre companies and groups around Raleigh-Durham-Chapel Hill (Triangle) area of North Carolina. I used their public facing websites to identify the general managers and artistic directors. This is who I would contact for my survey, if there was no general email to contact the group or theatre. I created my survey using Qualtrics software through UNC, after creating the questions in a Microsoft Word document. I used Qualtrics due to its UNC log-in credentials, which made it secure, as compared to a service such as Google Forms. The tools Qualtrics has to analyze data was also a factor in choosing this platform to host my survey.</br>
+
+I sent out the survey in mid-January (See Appendix 1) to see if the theatres have an archive, if they would be interested in having one, and if they would be willing to talk with me further about their archival materials. The main goal of the survey was to learn more about the theatre’s history, see their current archival status, gather statistics about what they have on site and where it is stored, and to gauge their interest in donating materials or managing it themselves. I closed the survey after three weeks and sent out a reminder email halfway through the time span to generate more responses. I received a total of 12 responses, detailed more in the next section.</br>
+
+I followed up with five individual theatres for further in-person, semi-structured interviews with the person who took to the survey, as well as one outside theatre (See Appendix 2 for interview questions). Three of them responded to the follow-up email to schedule a time to talk. The interviews took place in February and March of 2018, with all information being synthesized and analyzed by mid-March 2018. Due to timing and travel constraints, all of the representatives were interviewed over the phone, with copious notes made.</br>
+
+These interviews were audio recorded only when the interviewee consented to it, and extensive notes were taken. The phone interviews were recorded using Call Recorder by Green Apple Studio, found in the Google Play Store. The free app also allowed for the file to be sent to my computer through email, which was then downloaded to my personal computer with the email deleted to safeguard the recording and information it contains.</br>
+
+### Rationale
+A survey was chosen as an initial method, since it allowed me to reach out to a wide range of people, without having to approach them individually in person. It also allowed a low-pressure environment for the respondents to take the survey, since they could do it when they had time to and without me observing them. This allowed for “a rapid response rate and increased respondent flexibility” when I initially sent out the survey, and again with the reminder<a href="#anchor36"><sup>36</sup></a>. A survey also allowed for a wide range of questions, from short answer to multiple choice, which is not done as easily in interviews. The email (See Appendix 3) sent with the survey link explained the background of the study, the objectives and process of the study, and why they specifically were being sent the email, as well as an option to not take the survey, as it was voluntary. </br>
+
+Semi-structured interviews were chosen as a follow-up method, since it allowed me to talk with the respondents more about their materials, along with their interest in the American Theatre Archive Project (ATAP). The questions for these interviews start off with background information about the theatre, then flow into questions about the theatre’s archives (if they have them) and what materials they contain. The interview questions then shift to focus more on the American Theatre Archive Project to see how familiar the interviewee might be with the Project, as well as their thoughts on how the project could be better at reaching out to theatres. The interview ends with a question asking how the interviewees view the intersection of theatre and archives and how these two groups could work together in the future.</br>
+
+Semi-structured interviews allowed the conversation to happen naturally and for new questions to arise based off the participants’ answers. This welcomed natural curiosity and for the conversation to flourish in areas it might not have otherwise if the interviews were fully structured. As Rubin and Rubin said in their 2005 article, this method also allowed for the chance to “probe[s] and follow-up[s] to obtain the necessary detail, depth and [thick] description”<a href="#anchor37"><sup>37</sup></a>. This helped expand my research and explore areas I might not have considered initially.</br>
+
+### Limitations
+Since there are a limited number of theatres in the Triangle area, I started out with a small pool of people to contact, which was emphasized by the number of responses I received for my survey. Having a small number is desirable for reaching out to individual theatres for in-person interviews, but harder in terms of surveys, since they may not be interested in responding, or may forget about it. There was also the challenge of not knowing how old some of the people I was contacting were, so being very clear about the necessity of being 18 or older was needed. There were also limitations in how many people were interested in talking with me post-survey and making our schedules line-up to conduct the follow-up interview. </br>
+
+### Analyzing Methods
+Once my survey closed in mid-February, I began to analyze the data collected. Though there were few responses, valuable information was gathered from those who did respond. To analyze the responses, I used tools available in Qualtrics to view responses against one another, make comparisons, and draw conclusions, which discussed in
+detail below.</br> 
+
+After my interviews, I went back and analyzed both the notes I took and the audio recordings to look for similar themes and to see what additional information I had collected. Though the interviews were to gain a deeper understanding of what materials these theatres had and their knowledge of the American Theatre Archive Project, I also gathered a sense if those I had talked with had any interest in exploring ATAP more and offered to provide them with contact information.</br></br>
 
 <a id="anchor1">[1]</a>(Newman, 2011, p. 41)</br>
 <a id="anchor2">[2]</a>(Caswell, Cifor, & Ramirez, 2016, p. 61)</br>
@@ -396,3 +421,5 @@ their company as a whole. </br>
 <a id="anchor33">[33]</a>(Brady & Koffler, 2015, p. 117-119)</br>
 <a id="anchor34">[34]</a>("About Us | UNC Department of Dramatic Art," n.d.)</br>
 <a id="anchor35">[35]</a>(personal communication, October 12, 2017)</br>
+<a id="anchor36">[36]</a>(Brett and Jones, 2013, p. 54)
+<a id="anchor37">[37]</a>(as cited in Walmsley, 2013, p. 80)
