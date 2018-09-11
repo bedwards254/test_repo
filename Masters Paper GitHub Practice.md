@@ -421,5 +421,5 @@ After my interviews, I went back and analyzed both the notes I took and the audi
 <a id="anchor33">[33]</a>(Brady & Koffler, 2015, p. 117-119)</br>
 <a id="anchor34">[34]</a>("About Us | UNC Department of Dramatic Art," n.d.)</br>
 <a id="anchor35">[35]</a>(personal communication, October 12, 2017)</br>
-<a id="anchor36">[36]</a>(Brett and Jones, 2013, p. 54)
-<a id="anchor37">[37]</a>(as cited in Walmsley, 2013, p. 80)
+<a id="anchor36">[36]</a>(Brett and Jones, 2013, p. 54)</br>
+<a id="anchor37">[37]</a>(as cited in Walmsley, 2013, p. 80)</br>
