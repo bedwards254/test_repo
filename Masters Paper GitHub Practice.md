@@ -8,9 +8,9 @@
   * [The American Theatre Archive Project](#the-american-theatre-archive-project-)</br>
   * [North Carolina and the American Theatre Archive Project](#north-carolina-and-the-american-theatre-archive-project-)</br>
 * [Methods](#methods)</br>
-  * Rationale</br>
-  * Limitations</br>
-  * Analyzing Methods</br>
+  * [Rationale](#rationale)</br>
+  * [Limitations](#limitations)</br>
+  * [Analyzing Methods](#analyzing-methods)</br>
 * Findings and Analysis</br>
   * Survey Findings and Analysis</br>
   * Interview Findings and Analysis</br>
