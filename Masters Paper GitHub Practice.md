@@ -11,14 +11,14 @@
   * [Rationale](#rationale)</br>
   * [Limitations](#limitations)</br>
   * [Analyzing Methods](#analyzing-methods)</br>
-* Findings and Analysis</br>
-  * Survey Findings and Analysis</br>
-  * Interview Findings and Analysis</br>
-    * Burning Coal Theatre</br>
-    * Durham Savoyards</br>
-    * Raleigh Little Theatre</br>
-  * Discussion</br>
-* Conclusions and Recommendations</br>
+* [Findings and Analysis](#findings-and-analysis-survey-findings-and-analysis)</br>
+  * [Survey Findings and Analysis](#survey-findings-and-analysis)</br>
+  * [Interview Findings and Analysis](#interview-findings-and-analysis)</br>
+    * [Burning Coal Theatre](#burning-coal-theatre)</br>
+    * [Durham Savoyards](#durham-savoyards)</br>
+    * [Raleigh Little Theatre](#raleigh-little-theatre)</br>
+  * [Discussion](#discussion)</br>
+* [Conclusions and Recommendations](#conclusions-and-recommendations)</br>
 * Bibliography</br>
 * Appendix 1: Survey Questions</br>
 * Appendix 2: Follow-Up Interview Questions</br>
