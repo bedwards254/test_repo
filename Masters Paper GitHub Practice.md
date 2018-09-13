@@ -462,6 +462,21 @@ I would say the North Carolina team of the American Theatre Archive Project reac
 
 There is a lot of heart in the Triangle theatre scene, and there is a desire to preserve the history located in the playhouses here. I really believe if these theatres work with various partners to make their archives available to the public and promote them, people of all ages will make their way to them and maybe even stay for a show or two.</br></br>
 
+| [1](Newman, 2011, p. 41)                                	| [2](Caswell, Cifor, & Ramirez, 2016, p. 61)    	| [3](Caswell et al., 2016, p. 75          	|
+|---------------------------------------------------------	|------------------------------------------------	|------------------------------------------	|
+| [4](Flinn & Andrew, 2011, p. 15)                        	| [5](Flinn & Andrew, 2011, p. 1)                	| [6](Flinn & Andrew, 2011, p. 17)         	|
+| [7](Freedley, 1962)                                     	| [8](Freedley, 1962, p. 54-55)                  	| [9](Jones, Abbott, & Ross, 2009, p. 165) 	|
+| [10](Fern, 2004, p. 198)                                	| [11](Jones et al., 2009, p. 167)               	| [12](Jones et al., 2009, page 169)       	|
+| [13](Russell, 2016, p. 63)                              	| [14](Harvey & Moosberger, 2007, p. 44)         	| [15](Hujda, SAA 2017)                    	|
+| [16](Jackson, Wheeler, & Quinn, 2015, p. 22)            	| [17](Marini, 2007, p. 20)                      	| [18](Marini, 2007, p. 18)                	|
+| [19](Jackson et al., 2015, p. 21)                       	| [20](Marini, 2007, p. 26)                      	| [21](Hackman, 2012, p. 11)               	|
+| [22](Collins Shortall, 2016, p. 144)                    	| [23](Collins Shortall, 2016, p. 150)           	| [24](Smith, 2013, p. 61)                 	|
+| [25](Medaille, 2010, p. 345)                            	| [26](Brady & Koffler, 2015, p. 106)            	| [27](Brady & Koffler, 2015, p. 106)      	|
+| [28](Brady & Koffler, 2015, p. 107)                     	| [29](Brady & Koffler, 2015, p. 107-8)          	| [30](Brady & Koffler, 2015, p. 108)      	|
+| [31](Brady & Koffler, 2015, p. 113)                     	| [32](Brady & Koffler, 2015, p. 114)            	| [33](Brady & Koffler, 2015, p. 117-119)  	|
+| [34]("About Us | UNC Department of Dramatic Art," n.d.) 	| [35](personal communication, October 12, 2017) 	| [36](Brett and Jones, 2013, p. 54)       	|
+| [37](as cited in Walmsley, 2013, p. 80)                 	|                                                	|                                          	|</br></br></br></br></br>
+
 <a id="anchor1">[1]</a>(Newman, 2011, p. 41)</br>
 <a id="anchor2">[2]</a>(Caswell, Cifor, & Ramirez, 2016, p. 61)</br>
 <a id="anchor3">[3]</a>(Caswell et al., 2016, p. 75)</br>
