@@ -474,7 +474,7 @@ There is a lot of heart in the Triangle theatre scene, and there is a desire to 
 | <a id="anchor25">[25]</a>(Medaille, 2010, p. 345)                            	| <a id="anchor26">[26]</a>(Brady & Koffler, 2015, p. 106)            	| <a id="anchor27">[27]</a>(Brady & Koffler, 2015, p. 106)      	|
 | <a id="anchor28">[28]</a>(Brady & Koffler, 2015, p. 107)                     	| <a id="anchor29">[29]</a>(Brady & Koffler, 2015, p. 107-8)          	| <a id="anchor30">[30]</a>(Brady & Koffler, 2015, p. 108)      	|
 | <a id="anchor31">[31]</a>(Brady & Koffler, 2015, p. 113)                     	| <a id="anchor32">[32]</a>(Brady & Koffler, 2015, p. 114)            	| <a id="anchor33">[33]</a>(Brady & Koffler, 2015, p. 117-119)  	|
-| <a id="anchor34">[34]</a>("About Us | UNC Department of Dramatic Art," n.d.) 	| <a id="anchor35">[35]</a>(personal communication, October 12, 2017) 	| <a id="anchor36">[36]</a>(Brett and Jones, 2013, p. 54)       	|
+| <a id="anchor34">[34]</a>("About Us UNC Department of Dramatic Art," n.d.) 	| <a id="anchor35">[35]</a>(personal communication, October 12, 2017) 	| <a id="anchor36">[36]</a>(Brett and Jones, 2013, p. 54)       	|
 | <a id="anchor37">[37]</a>(as cited in Walmsley, 2013, p. 80)                 	|                                                	|                                          	|</br></br></br></br></br>
 
 <a id="anchor1">[1]</a>(Newman, 2011, p. 41)</br>
