@@ -1,6 +1,6 @@
 # Digital Collections
 
-Rose Library collection born digital materials and digitizes materials for preservation purposes. 
+Rose Library collects born digital materials and digitizes materials for preservation purposes. 
 All digitized and born digital materials can be accessed on laptops or iPads in our Reading Room.
 
 Digitized collections are available online via Emory’s [Digital Gallery](<http://www.digitalgallery.emory.edu/luna/servlet>
@@ -10,17 +10,14 @@ Digitized collections are available online via Emory’s [Digital Gallery](<http
 
 The Rose Library provides access to the processed portions of [Salman Rushdie’s digital archive](<https://findingaids.library.emory.edu/documents/rushdie1000/> 
 "https://findingaids.library.emory.edu/documents/rushdie1000/") via a 
-laptop in the reading room. This workstation allows researchers to search and browse Rushdie’s computing files, 
-as well as interact with a simulation of Rushdie’s original computing environment via an emulation. As additional
+laptop in the reading room. This workstation allows researchers to interact with a simulation of Rushdie’s original 
+computing environment via an emulation. As additional
 data from Rushdie's computers are processed, they will also be available in the Reading Room.
 
 ## Born-Digital Collections
 
 In addition to providing access to the processed portions of Rushdie’s digital archive, Rose Library also provides 
-access to other processed born-digital collections on laptops in the Rose Library Reading Room. Currently available collections
-are listed below.Born-digital files 
-from the papers of Alice Walker, Lucille Clifton, Turner Cassity, Mildred Thompson, Nathaniel Mackey and Matt Schaffer 
-collections. are currently available, with other collections soon to be added.
+access to other processed born-digital collections on laptops in the Rose Library Reading Room. Currently available collections are listed below. 
 
 Patrons may request access to unprocessed born digital collections that appear in the [Emory FindingAids database](<https://findingaids.library.emory.edu> "https://findingaids.library.emory.edu"), 
 though all requests must be made in advance. Once a request is made, we will supply the patron with a time estimate 
