@@ -6,18 +6,11 @@ All digitized and born digital materials can be accessed on laptops or iPads in 
 Digitized collections are available online via Emory’s [Digital Gallery](<http://www.digitalgallery.emory.edu/luna/servlet>
  "http://www.digitalgallery.emory.edu/luna/servlet"). 
 
-## Salman Rushdie Born-Digital Laptop:
-
-The Rose Library provides access to the processed portions of [Salman Rushdie’s digital archive](<https://findingaids.library.emory.edu/documents/rushdie1000/> 
-"https://findingaids.library.emory.edu/documents/rushdie1000/") via a 
-laptop in the reading room. This workstation allows researchers to interact with a simulation of Rushdie’s original 
-computing environment via an emulation. As additional
-data from Rushdie's computers are processed, they will also be available in the Reading Room.
-
 ## Born-Digital Collections
 
-In addition to providing access to the processed portions of Rushdie’s digital archive, Rose Library also provides 
-access to other processed born-digital collections on laptops in the Rose Library Reading Room. Currently available collections are listed below. 
+Born-digital materials are items created electronically and do not have a physical form. [to be worked on]
+
+Rose Library provides access to other processed born-digital collections on laptops in the Rose Library Reading Room. Currently available collections are listed below. 
 
 Patrons may request access to unprocessed born digital collections that appear in the [Emory FindingAids database](<https://findingaids.library.emory.edu> "https://findingaids.library.emory.edu"), 
 though all requests must be made in advance. Once a request is made, we will supply the patron with a time estimate 
@@ -42,3 +35,11 @@ access to unprocessed born digital collections, please email [rose.library@emory
 * [Jack Nelson](<https://findingaids.library.emory.edu/documents/nelson1237/> "https://findingaids.library.emory.edu/documents/nelson1237/")
 * [Alli Royce Soble](<https://findingaids.library.emory.edu/documents/soble1315/> "https://findingaids.library.emory.edu/documents/soble1315/")
 * [Jack Gilbert](<https://findingaids.library.emory.edu/documents/gilbert1375/> "https://findingaids.library.emory.edu/documents/gilbert1375/")
+
+## Salman Rushdie Born-Digital Laptop:
+
+The Rose Library provides access to the processed portions of [Salman Rushdie’s digital archive](<https://findingaids.library.emory.edu/documents/rushdie1000/> 
+"https://findingaids.library.emory.edu/documents/rushdie1000/") via a 
+laptop in the reading room. This workstation allows researchers to interact with a simulation of Rushdie’s original 
+computing environment via an emulation. As additional
+data from Rushdie's computers are processed, they will also be available in the Reading Room.
