@@ -36,6 +36,15 @@ access to unprocessed born digital collections, please email [rose.library@emory
 * [Alli Royce Soble](<https://findingaids.library.emory.edu/documents/soble1315/> "https://findingaids.library.emory.edu/documents/soble1315/")
 * [Jack Gilbert](<https://findingaids.library.emory.edu/documents/gilbert1375/> "https://findingaids.library.emory.edu/documents/gilbert1375/")
 
+| [Alice Walker](<https://findingaids.library.emory.edu/documents/walker1061/> "https://findingaids.library.emory.edu/documents/walker1061/")         	| [Alfred Uhry](<https://findingaids.library.emory.edu/documents/uhry833/> "https://findingaids.library.emory.edu/documents/uhry833/")           	|
+|----------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------	|
+| [Lucille Clifton](<https://findingaids.library.emory.edu/documents/clifton1054/> "https://findingaids.library.emory.edu/documents/clifton1054/")     	| [Carol Ann Duffy](<https://findingaids.library.emory.edu/documents/duffy834/> "https://findingaids.library.emory.edu/documents/duffy834/")      	|
+| [Turner Cassity](<https://findingaids.library.emory.edu/documents/cassity642/> "https://findingaids.library.emory.edu/documents/cassity642/")       	| [Doris Adelaide Derby](<https://findingaids.library.emory.edu/documents/derby935/> "https://findingaids.library.emory.edu/documents/derby935/") 	|
+| [Mildred Thompson](<https://findingaids.library.emory.edu/documents/thompson1199/> "https://findingaids.library.emory.edu/documents/thompson1199/")   	| [John Stone](<https://findingaids.library.emory.edu/documents/stone1182/> "https://findingaids.library.emory.edu/documents/stone1182/")          	|
+| [Nathaniel Mackey](<https://findingaids.library.emory.edu/documents/mackey1297/> "https://findingaids.library.emory.edu/documents/mackey1297/")     	| [Jack Nelson](<https://findingaids.library.emory.edu/documents/nelson1237/> "https://findingaids.library.emory.edu/documents/nelson1237/")        	|
+| [Matt Schaffer](<https://findingaids.library.emory.edu/documents/schaffer755/> "https://findingaids.library.emory.edu/documents/schaffer755/")       	| [Alli Royce Soble](<https://findingaids.library.emory.edu/documents/soble1315/> "https://findingaids.library.emory.edu/documents/soble1315/")    	|
+| [Natasha Trethewey](<https://findingaids.library.emory.edu/documents/trethewey1272/> "https://findingaids.library.emory.edu/documents/trethewey1272/") 	| [Jack Gilbert](<https://findingaids.library.emory.edu/documents/gilbert1375/> "https://findingaids.library.emory.edu/documents/gilbert1375/")      	|
+
 ## Salman Rushdie Born-Digital Laptop:
 
 The Rose Library provides access to the processed portions of [Salman Rushdie’s digital archive](<https://findingaids.library.emory.edu/documents/rushdie1000/> 
