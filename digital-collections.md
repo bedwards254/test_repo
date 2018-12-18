@@ -3,12 +3,12 @@
 Rose Library collects born digital materials and digitizes materials for preservation purposes. 
 All digitized and born digital materials can be accessed on laptops or iPads in our Reading Room.
 
-Digitized collections are available online via Emory’s [Digital Gallery](<http://www.digitalgallery.emory.edu/luna/servlet>
- "http://www.digitalgallery.emory.edu/luna/servlet"). 
-
 ## Born-Digital Collections
 
-Born-digital materials are items created electronically and do not have a physical form. [to be worked on]
+Born-digital materials are items created electronically and do not have a physical form. They require another way to view them, such as a laptop or iPad, rather than physically holding the material. For example, think of files you create on your computer or photographs on your phone. These files cannot be viewed without an electronic device; and, if you were to print out said photograph or file, it would then be an analog form of the material, which has different properties than the digital form.  
+
+There is a different between born-digital and digitized materials. Digitized materials are reproductions of physical items, most often accomplished through a scanner or a camera. Think of it like scanning a form with your signature to then email to someone. That's an example of digitization! Digitized collections are available online via Emory’s [Digital Gallery](<http://www.digitalgallery.emory.edu/luna/servlet>
+ "http://www.digitalgallery.emory.edu/luna/servlet"). 
 
 Rose Library provides access to other processed born-digital collections on laptops in the Rose Library Reading Room. Currently available collections are listed below. 
 
