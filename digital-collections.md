@@ -54,3 +54,40 @@ The Rose Library provides access to the processed portions of [Salman Rushdie’
 laptop in the reading room. This workstation allows researchers to interact with a simulation of Rushdie’s original 
 computing environment via an emulation. As additional
 data from Rushdie's computers are processed, they will also be available in the Reading Room.
+
+# Possible Other Pages/Sections
+## FAQs (inspired by Bodleian)
+### What does the Rose collect? 
+ - What kinds of materials are included in the Rose born-digital materials? (more general overview, like above)
+ - What subjects are covered in our collections? (our subject areas)
+ - What types of digital materials does the Rose hold? (example materials, documents, emails, etc)
+
+### Personal digital archives donations
+ - What kinds of materials are of interest to the Rose?
+ - What kinds of materials does the Rose collect?
+ - I have a website, can the Rose archive that too? 
+ - Can the Rose handle older materials? 
+ - How should my organization prepare the material?
+ - How can we transfer our material?
+ - How long will the Rose continue to preserve the material?
+ - (Optional) Does the Rose still collect paper materials? 
+ - Who should I contact with questions? 
+
+### Organizational digital archives donations
+ - What kinds of materials are of interest to the Rose?
+ - What kinds of materials does the Rose collect?
+ - Can the Rose handle older materials? 
+ - How should my organization prepare the material?
+ - How can we transfer our material?
+ - How long will the Rose continue to preserve the material?
+ - (Optional) Does the Rose still collect paper materials? 
+ - Who should I contact with questions?
+ 
+ ## Digital Policies
+ As we create/finalize them. 
+ 
+ ## Web Archive
+ Link out to our web archives?
+ 
+ ## Collections
+ List of our collections available currently, like table above
